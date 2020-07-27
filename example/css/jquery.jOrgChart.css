@@ -43,6 +43,7 @@
 
 .drag-active {
   border-style			: dotted !important;
+  border-color 			: #b71515 !important;
 }
 
 .drop-hover {
